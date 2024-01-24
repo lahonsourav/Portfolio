@@ -19,7 +19,7 @@
 
 .scroll_list {
   display: flex;
-
+  position: relative;
   border: 1px solid green;
   list-style: none;
   gap: 2rem;
